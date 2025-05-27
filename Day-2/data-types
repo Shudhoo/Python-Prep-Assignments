@@ -1,0 +1,17 @@
+In programming language data-type is classification or categorization that specifices which type of value a varibale can hold.
+Data-Type is essentials because it determines how data is stored in the memory and what operatins can be performed on the data-type.
+Data-Type can be build-in or we can also create a data-type for our use according to the use-case.
+
+1.> Numeric Data-Types:
+	* int:
+	* float:
+	* complex: 'Represents comple numbers like z = 2+3j'
+2.> Sequence Types:
+	* str: 'Represents strings (sequences of characters). Example: text = "Hello, World"'
+	* float: 'Represents lists (ordered, mutable sequences). Example: my_list = [1, 2, 3]'
+	* tuple: 'Represents tuples (ordered, immutable sequences). Example: my_tuple = (1, 2, 3)'
+3.> Mapping Type:
+	* dict: 'Represents dictionaries (key-value pairs). Example: my_dict = {'name': 'John', 'age': 30}'
+4.> Boolean Type:
+	* bool: 'Represents Boolean values (True or False). Example: is_valid = True'
+	

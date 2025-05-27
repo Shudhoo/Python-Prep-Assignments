@@ -1,0 +1,6 @@
+# This is concatination in python its a build-in function in python !!
+str1 = 'Hello'
+str2 = 'World'
+result = str1 + ' ' + str2
+print(result)
+

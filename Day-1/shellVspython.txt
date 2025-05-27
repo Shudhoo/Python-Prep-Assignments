@@ -1,0 +1,4 @@
+The main difference between python and shell-scripting is that python can be used at a wide level where wee need to communicate with windows and linux servers, here shel-script will not work for windows. But if the tasks is related to just the linux shell-script could work as shell script be very usefull for administartive tasks, command line interactions, text processing within linux environment env variable configurations etc.
+
+Python comes in picture when we have to implement complex logic, data structure, extensive data manipulation. Python is very usefill with cross platfrom compatibility, API Handling, reusable code, error handling, and advanced data processing.
+
