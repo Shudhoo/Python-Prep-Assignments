@@ -1,0 +1,7 @@
+A variable is name of a obeject or string assigned !
+example ->
+name = "Shudhodhan"
+age = 22
+print(name, " ", age)
+The above typed code is in python and it is dynamically typed language because here python takes care of data type 
+like in our ex "name" is string and "age" is int.

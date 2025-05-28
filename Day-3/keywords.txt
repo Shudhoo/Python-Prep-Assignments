@@ -1,0 +1,18 @@
+Key-Words
+Keywords are reserved words in Python that have predefined meanings and cannot be used as variable names or identifiers. These words are used to define the structure and logic of the program. They are an integral part of the Python language and are case-sensitive, which means you must use them exactly as specified.
+
+Here are some important Python keywords:
+
+and: It is a logical operator that returns True if both operands are true.
+
+or: It is a logical operator that returns True if at least one of the operands is true.
+
+not: It is a logical operator that returns the opposite of the operand's truth value.
+
+if: It is used to start a conditional statement and is followed by a condition that determines whether the code block is executed.
+
+else: It is used in conjunction with if to define an alternative code block to execute when the if condition is False.
+
+elif: Short for "else if," it is used to check additional conditions after an if statement and is used in combination with if and else.
+
+while: It is used to create a loop that repeatedly executes a block of code as long as a specified condition is true
