@@ -1,0 +1,18 @@
+How to Import a Package
+Importing a package or module in Python is done using the import statement. 
+You can import the entire package, specific modules, or individual functions/variables from a module.
+
+Example:
+
+# Import the entire module
+import math
+
+# Use functions/variables from the module
+result = math.sqrt(16)
+print(result)
+
+# Import specific function/variable from a module
+from math import pi
+print(pi)
+In this example, we import the math module and then use functions and variables from it. 
+You can also import specific elements from modules using the from module import element syntax.

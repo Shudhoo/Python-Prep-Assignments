@@ -1,0 +1,17 @@
+Packages
+A package is a collection of modules organized in directories. Packages help you organize related modules into a hierarchy. They contain a special file named __init__.py, which indicates that the directory should be treated as a package.
+
+Example:
+
+Suppose you have a package structure as follows:
+
+my_package/
+    __init__.py
+    module1.py
+    module2.py
+You can use modules from this package as follows:
+
+from my_package import module1
+
+result = module1.function_from_module1()
+In this example, my_package is a Python package containing modules module1 and module2.
