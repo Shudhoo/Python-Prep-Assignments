@@ -3,4 +3,3 @@
 import os
 
 print(os.getenv("vars"), "is", os.getenv("shudhodhan"))
-e
